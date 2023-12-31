@@ -1,0 +1,57 @@
+{
+ "vertices": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "edges": [
+  {
+   "from": 2,
+   "to": 1,
+   "order": 1
+  },
+  {
+   "from": 3,
+   "to": 2,
+   "order": 1
+  },
+  {
+   "from": 3,
+   "to": 1,
+   "order": 2
+  },
+  {
+   "from": 4,
+   "to": 3,
+   "order": 1
+  },
+  {
+   "from": 4,
+   "to": 1,
+   "order": 2
+  },
+  {
+   "from": 5,
+   "to": 4,
+   "order": 1
+  },
+  {
+   "from": 5,
+   "to": 2,
+   "order": 2
+  },
+  {
+   "from": 6,
+   "to": 4,
+   "order": 1
+  },
+  {
+   "from": 6,
+   "to": 5,
+   "order": 2
+  }
+ ]
+}
